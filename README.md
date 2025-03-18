@@ -48,7 +48,11 @@ The dataset contains grocery sales data with the following key attributes:
 ## Future Enhancements  
 - Automate data updates using Power Query.  
 - Integrate Power BI for advanced visualization.  
-- Perform predictive analysis on sales trends.  
+- Perform predictive analysis on sales trends.
+
+## Dashboard
+
+![BlinkIT_Dashboard](https://github.com/user-attachments/assets/7598d4e9-460c-4cfa-aaac-82191b7c8bd7)
 
 ## Author  
 [Sandeep Kumar Panda](https://github.com/sandeepkup84)  
