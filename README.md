@@ -1,7 +1,8 @@
 # Sales-Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preparation, cleaning, and visualization.
+I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages: data preparation, cleaning, and visualization.
 # BlinkIT Grocery Data Analysis
 - <a href="https://github.com/Sandeepkupanda/Sales-Data-Analysis-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
+- Dashboard interaction <a href="https://github.com/Sandeepkupanda/Sales-Data-Analysis-Dashboard/blob/main/BlinkIT_Dashboard.png">view Dashboard</a>
 
 ## Project Overview  
 This project analyzes grocery sales data to uncover insights into sales trends, store performance, and customer preferences. The dashboard visualizes key metrics using Excel pivot tables and charts.
